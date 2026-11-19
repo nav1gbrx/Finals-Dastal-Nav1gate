@@ -8,10 +8,10 @@ if errorlevel 1 (
     exit /b 1
 )
 
-py -3 -m PyInstaller --noconfirm --clean --windowed --name ComputerStoreHelpdesk main.py
+py -3 -m PyInstaller --noconfirm --clean --windowed --name Nav1Gate main.py
 if errorlevel 1 (
     echo Windows executable build failed.
     exit /b 1
 )
 
-echo Build complete: dist\ComputerStoreHelpdesk\ComputerStoreHelpdesk.exe
+echo Build complete: dist\Nav1Gate\Nav1Gate.exe

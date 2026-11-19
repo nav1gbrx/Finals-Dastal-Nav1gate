@@ -39,8 +39,8 @@ from Linux or macOS):
 1. Install Python 3 and ensure the Python Launcher (`py`) is available.
 2. From the project folder, run `build_windows.bat`.
 3. Find the application at
-   `dist\ComputerStoreHelpdesk\ComputerStoreHelpdesk.exe`.
-4. Copy the complete `ComputerStoreHelpdesk` folder when distributing the
+   `dist\Nav1Gate\Nav1Gate.exe`.
+4. Copy the complete `Nav1Gate` folder when distributing the
    one-folder build; do not copy only the `.exe`.
 
 The build script installs PyInstaller from `requirements-build.txt`. The app uses
@@ -70,9 +70,9 @@ connection.
 
 Application data is stored per user rather than beside the executable:
 
-- Windows: `%APPDATA%\ComputerStoreHelpdesk`
-- macOS: `~/Library/Application Support/ComputerStoreHelpdesk`
-- Linux: `$XDG_DATA_HOME/ComputerStoreHelpdesk`, or `~/.local/share/ComputerStoreHelpdesk`
+- Windows: `%APPDATA%\Nav1Gate`
+- macOS: `~/Library/Application Support/Nav1Gate`
+- Linux: `$XDG_DATA_HOME/Nav1Gate`, or `~/.local/share/Nav1Gate`
 
 The folder contains `inventory.json`, `services.json`, and `audit.log`. Back up this
 folder to preserve business data. This prototype stores data locally; it does not
