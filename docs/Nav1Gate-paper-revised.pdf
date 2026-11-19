@@ -1,0 +1,1423 @@
+%PDF-1.4
+%Nav1Gate
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [7 0 R 9 0 R 11 0 R 13 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier /Encoding /WinAnsiEncoding >>
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 29005 >>
+stream
+BT /F2 8 Tf 0.4 0.44 0.48 rg 1 0 0 1 66 755 Tm (Nav1Gate  /  PROJECT DOCUMENTATION) Tj ET
+q 0.82 0.85 0.88 RG 0.6 w 66 747 m 546 747 l S Q
+BT /F2 22 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 712 Tm (PROJECT DOCUMENTATION: Nav1Gate) Tj ET
+q 0.82 0.85 0.88 RG 0.9 w 66 707 m 546 707 l S Q
+BT /F2 15.5 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 685.5 Tm (1. Project Title) Tj ET
+q 0.82 0.85 0.88 RG 0.55 w 66 680.5 m 546 680.5 l S Q
+BT /F2 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 664.3 Tm (Nav1Gate:) Tj ET
+BT /F2 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 119.04 664.3 Tm (Customer) Tj ET
+BT /F2 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 166.78 664.3 Tm (Service) Tj ET
+BT /F2 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 209.21 664.3 Tm (Routing) Tj ET
+BT /F2 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 251.64 664.3 Tm (and) Tj ET
+BT /F2 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 272.86 664.3 Tm (PC-Parts) Tj ET
+BT /F2 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 320.59 664.3 Tm (Inventory) Tj ET
+BT /F2 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 373.63 664.3 Tm (Management) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 646.1 Tm (Nav1Gate) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 113.74 646.1 Tm (is) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 129.65 646.1 Tm (a) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 140.26 646.1 Tm (desktop) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 182.69 646.1 Tm (application) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 246.34 646.1 Tm (for) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 267.55 646.1 Tm (managing) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 315.29 646.1 Tm (customer) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 363.02 646.1 Tm (service) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 405.46 646.1 Tm (requests,) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 458.5 646.1 Tm (staff) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 631.9 Tm (assignments,) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 134.95 631.9 Tm (service) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 177.38 631.9 Tm (history,) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 225.12 631.9 Tm (and) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 246.34 631.9 Tm (PC-parts) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 294.07 631.9 Tm (inventory) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 347.11 631.9 Tm (in) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 363.02 631.9 Tm (a) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 373.63 631.9 Tm (computer) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 421.37 631.9 Tm (store.) Tj ET
+BT /F2 15.5 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 608.4 Tm (2. Problem Statement) Tj ET
+q 0.82 0.85 0.88 RG 0.55 w 66 603.4 m 546 603.4 l S Q
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 587.2 Tm (Computer-parts) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 145.56 587.2 Tm (stores) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 182.69 587.2 Tm (handle) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 219.82 587.2 Tm (both) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 246.34 587.2 Tm (product) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 288.77 587.2 Tm (sales) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 320.59 587.2 Tm (and) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 341.81 587.2 Tm (customer) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 389.54 587.2 Tm (support.) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 437.28 587.2 Tm (Customers) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 490.32 587.2 Tm (may) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 511.54 587.2 Tm (need) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 573 Tm (help) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 92.52 573 Tm (with) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 119.04 573 Tm (retail) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 156.17 573 Tm (purchases,) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 214.51 573 Tm (PC) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 230.42 573 Tm (assembly,) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 283.46 573 Tm (hardware) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 331.2 573 Tm (repair,) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 373.63 573 Tm (or) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 389.54 573 Tm (software) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 437.28 573 Tm (repair.) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 479.71 573 Tm (Without) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 522.14 573 Tm (a) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 558.8 Tm (shared) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 103.13 558.8 Tm (tracking) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 150.86 558.8 Tm (process,) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 198.6 558.8 Tm (customer) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 246.34 558.8 Tm (requests) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 294.07 558.8 Tm (can) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 315.29 558.8 Tm (be) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 331.2 558.8 Tm (difficult) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 384.24 558.8 Tm (to) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 400.15 558.8 Tm (route,) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 437.28 558.8 Tm (staff) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 469.1 558.8 Tm (availability) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 544.6 Tm (can) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 87.22 544.6 Tm (be) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 103.13 544.6 Tm (unclear,) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 150.86 544.6 Tm (and) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 172.08 544.6 Tm (inventory) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 225.12 544.6 Tm (information) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 288.77 544.6 Tm (can) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 309.98 544.6 Tm (be) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 325.9 544.6 Tm (hard) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 352.42 544.6 Tm (to) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 368.33 544.6 Tm (maintain.) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 526.4 Tm (Customers,) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 124.34 526.4 Tm (service) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 166.78 526.4 Tm (staff,) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 203.9 526.4 Tm (and) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 225.12 526.4 Tm (store) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 256.94 526.4 Tm (operators) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 309.98 526.4 Tm (experience) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 368.33 526.4 Tm (these) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 400.15 526.4 Tm (coordination) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 469.1 526.4 Tm (problems.) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 522.14 526.4 Tm (A) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 512.2 Tm (software) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 113.74 512.2 Tm (solution) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 161.47 512.2 Tm (is) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 177.38 512.2 Tm (useful) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 214.51 512.2 Tm (because) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 256.94 512.2 Tm (it) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 272.86 512.2 Tm (organizes) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 325.9 512.2 Tm (requests) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 373.63 512.2 Tm (by) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 389.54 512.2 Tm (service) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 431.98 512.2 Tm (sector,) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 474.41 512.2 Tm (preserves) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 527.45 512.2 Tm (the) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 498 Tm (order) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 97.82 498 Tm (of) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 113.74 498 Tm (waiting) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 156.17 498 Tm (customers,) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 214.51 498 Tm (shows) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 246.34 498 Tm (staff) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 278.16 498 Tm (availability,) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 352.42 498 Tm (and) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 373.63 498 Tm (keeps) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 405.46 498 Tm (service) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 447.89 498 Tm (and) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 469.1 498 Tm (inventory) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 483.8 Tm (records) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 108.43 483.8 Tm (available) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 161.47 483.8 Tm (after) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 193.3 483.8 Tm (the) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 214.51 483.8 Tm (application) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 278.16 483.8 Tm (is) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 294.07 483.8 Tm (restarted.) Tj ET
+BT /F2 15.5 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 460.3 Tm (3. Project Objectives) Tj ET
+q 0.82 0.85 0.88 RG 0.55 w 66 455.3 m 546 455.3 l S Q
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 439.1 Tm (Nav1Gate) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 113.74 439.1 Tm (intends) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 156.17 439.1 Tm (to:) Tj ET
+BT /F2 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 68 421 Tm (1.) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 86 421 Tm (Register) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 133.27 421 Tm (customers) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 185.79 421 Tm (for) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 206.8 421 Tm (Assembly,) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 259.32 421 Tm (Retail,) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 301.33 421 Tm (Hardware) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 348.6 421 Tm (Repair,) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 390.62 421 Tm (Software) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 437.88 421 Tm (Repair,) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 404.9 Tm (or) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 81.91 404.9 Tm (General) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 124.34 404.9 Tm (Service.) Tj ET
+BT /F2 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 68 386.8 Tm (2.) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 86 386.8 Tm (Maintain) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 133.27 386.8 Tm (a) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 143.77 386.8 Tm (first-in,) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 196.29 386.8 Tm (first-out) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 248.81 386.8 Tm (\(FIFO\)) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 285.58 386.8 Tm (waitlist) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 332.84 386.8 Tm (for) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 353.85 386.8 Tm (each) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 380.11 386.8 Tm (sector.) Tj ET
+BT /F2 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 68 370.8 Tm (3.) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 86 370.8 Tm (Assign) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 122.76 370.8 Tm (the) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 143.77 370.8 Tm (oldest) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 180.54 370.8 Tm (waiting) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 222.55 370.8 Tm (customer) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 269.82 370.8 Tm (to) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 285.58 370.8 Tm (available) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 338.1 370.8 Tm (staff) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 369.61 370.8 Tm (from) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 395.87 370.8 Tm (the) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 416.88 370.8 Tm (same) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 443.14 370.8 Tm (sector.) Tj ET
+BT /F2 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 68 354.8 Tm (4.) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 86 354.8 Tm (Track) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 117.51 354.8 Tm (active) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 154.28 354.8 Tm (and) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 175.28 354.8 Tm (completed) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 227.8 354.8 Tm (service) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 269.82 354.8 Tm (tickets) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 311.84 354.8 Tm (and) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 332.84 354.8 Tm (maintain) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 380.11 354.8 Tm (service) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 422.13 354.8 Tm (history.) Tj ET
+BT /F2 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 68 338.8 Tm (5.) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 86 338.8 Tm (Add,) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 112.26 338.8 Tm (update,) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 154.28 338.8 Tm (and) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 175.28 338.8 Tm (remove) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 212.05 338.8 Tm (staff) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 243.56 338.8 Tm (while) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 275.07 338.8 Tm (preventing) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 332.84 338.8 Tm (removal) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 374.86 338.8 Tm (of) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 390.62 338.8 Tm (busy) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 416.88 338.8 Tm (staff.) Tj ET
+BT /F2 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 68 322.8 Tm (6.) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 86 322.8 Tm (Create,) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 128.02 322.8 Tm (search,) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 170.03 322.8 Tm (update,) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 212.05 322.8 Tm (sort,) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 243.56 322.8 Tm (and) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 264.57 322.8 Tm (delete) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 301.33 322.8 Tm (PC-parts) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 348.6 322.8 Tm (inventory) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 401.12 322.8 Tm (records.) Tj ET
+BT /F2 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 68 306.8 Tm (7.) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 86 306.8 Tm (Queue) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 117.51 306.8 Tm (restock) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 159.53 306.8 Tm (requests) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 206.8 306.8 Tm (and) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 227.8 306.8 Tm (increase) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 275.07 306.8 Tm (stock) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 306.58 306.8 Tm (when) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 332.84 306.8 Tm (a) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 343.35 306.8 Tm (request) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 385.36 306.8 Tm (is) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 401.12 306.8 Tm (processed.) Tj ET
+BT /F2 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 68 290.8 Tm (8.) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 86 290.8 Tm (Demonstrate) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 149.02 290.8 Tm (data) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 175.28 290.8 Tm (structures) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 233.06 290.8 Tm (and) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 254.06 290.8 Tm (algorithms) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 311.84 290.8 Tm (through) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 353.85 290.8 Tm (working) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 395.87 290.8 Tm (application) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 274.7 Tm (features) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 113.74 274.7 Tm (and) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 134.95 274.7 Tm (tests.) Tj ET
+BT /F2 15.5 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 251.2 Tm (4. System Overview) Tj ET
+q 0.82 0.85 0.88 RG 0.55 w 66 246.2 m 546 246.2 l S Q
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 230 Tm (When) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 92.52 230 Tm (launched,) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 145.56 230 Tm (Nav1Gate) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 193.3 230 Tm (loads) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 225.12 230 Tm (inventory,) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 283.46 230 Tm (staff,) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 320.59 230 Tm (and) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 341.81 230 Tm (service) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 384.24 230 Tm (tickets) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 426.67 230 Tm (from) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 453.19 230 Tm (per-user) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 500.93 230 Tm (JSON) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 215.8 Tm (files) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 97.82 215.8 Tm (and) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 119.04 215.8 Tm (rebuilds) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 166.78 215.8 Tm (its) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 187.99 215.8 Tm (in-memory) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 241.03 215.8 Tm (indexes) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 283.46 215.8 Tm (and) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 304.68 215.8 Tm (queues.) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 347.11 215.8 Tm (The) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 368.33 215.8 Tm (Tkinter) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 410.76 215.8 Tm (interface) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 463.8 215.8 Tm (opens) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 495.62 215.8 Tm (by) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 201.6 Tm (default;) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 113.74 201.6 Tm (the) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 134.95 201.6 Tm (command-line) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 203.9 201.6 Tm (menu) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 230.42 201.6 Tm (is) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 246.34 201.6 Tm (available) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 299.38 201.6 Tm (with) Tj ET
+BT /F3 10.2 Tf 0.03 0.31 0.66 rg 1 0 0 1 325.9 201.6 Tm (python) Tj ET
+BT /F3 10.2 Tf 0.03 0.31 0.66 rg 1 0 0 1 368.74 201.6 Tm (main.py) Tj ET
+BT /F3 10.2 Tf 0.03 0.31 0.66 rg 1 0 0 1 417.7 201.6 Tm (--cli) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 448.3 201.6 Tm (.) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 183.4 Tm (For) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 87.22 183.4 Tm (customer) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 134.95 183.4 Tm (service,) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 182.69 183.4 Tm (the) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 203.9 183.4 Tm (operator) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 251.64 183.4 Tm (enters) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 288.77 183.4 Tm (a) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 299.38 183.4 Tm (customer's) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 357.72 183.4 Tm (name,) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 389.54 183.4 Tm (service) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 431.98 183.4 Tm (sector,) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 474.41 183.4 Tm (and) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 495.62 183.4 Tm (request.) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 169.2 Tm (The) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 87.22 169.2 Tm (system) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 124.34 169.2 Tm (creates) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 166.78 169.2 Tm (a) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 177.38 169.2 Tm (ticket) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 214.51 169.2 Tm (and) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 235.73 169.2 Tm (adds) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 262.25 169.2 Tm (it) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 278.16 169.2 Tm (to) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 294.07 169.2 Tm (that) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 320.59 169.2 Tm (sector's) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 368.33 169.2 Tm (waitlist.) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 421.37 169.2 Tm (When) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 447.89 169.2 Tm (an) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 463.8 169.2 Tm (eligible) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 511.54 169.2 Tm (staff) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 155 Tm (member) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 103.13 155 Tm (is) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 119.04 155 Tm (available,) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 177.38 155 Tm (the) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 198.6 155 Tm (operator) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 246.34 155 Tm (assigns) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 288.77 155 Tm (the) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 309.98 155 Tm (next) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 336.5 155 Tm (ticket.) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 378.94 155 Tm (The) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 400.15 155 Tm (system) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 437.28 155 Tm (marks) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 469.1 155 Tm (the) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 490.32 155 Tm (ticket) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 140.8 Tm (active) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 103.13 140.8 Tm (and) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 124.34 140.8 Tm (the) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 145.56 140.8 Tm (staff) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 177.38 140.8 Tm (member) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 214.51 140.8 Tm (busy.) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 246.34 140.8 Tm (On) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 262.25 140.8 Tm (completion,) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 325.9 140.8 Tm (it) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 341.81 140.8 Tm (marks) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 373.63 140.8 Tm (the) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 394.85 140.8 Tm (ticket) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 431.98 140.8 Tm (finished,) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 485.02 140.8 Tm (releases) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 126.6 Tm (the) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 87.22 126.6 Tm (staff) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 119.04 126.6 Tm (member,) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 161.47 126.6 Tm (and) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 182.69 126.6 Tm (adds) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 209.21 126.6 Tm (the) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 230.42 126.6 Tm (ticket) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 267.55 126.6 Tm (to) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 283.46 126.6 Tm (service) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 325.9 126.6 Tm (history.) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 108.4 Tm (For) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 87.22 108.4 Tm (inventory,) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 145.56 108.4 Tm (the) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 166.78 108.4 Tm (operator) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 214.51 108.4 Tm (can) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 235.73 108.4 Tm (create,) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 278.16 108.4 Tm (inspect,) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 325.9 108.4 Tm (edit,) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 357.72 108.4 Tm (delete,) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 400.15 108.4 Tm (search,) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 442.58 108.4 Tm (and) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 463.8 108.4 Tm (sort) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 490.32 108.4 Tm (PC) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 506.23 108.4 Tm (parts.) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 94.2 Tm (The) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 87.22 94.2 Tm (system) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 124.34 94.2 Tm (derives) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 166.78 94.2 Tm (a) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 177.38 94.2 Tm (restock) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 219.82 94.2 Tm (warning) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 262.25 94.2 Tm (when) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 288.77 94.2 Tm (a) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 299.38 94.2 Tm (product) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 341.81 94.2 Tm (has) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 363.02 94.2 Tm (five) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 389.54 94.2 Tm (or) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 405.46 94.2 Tm (fewer) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 437.28 94.2 Tm (units.) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 474.41 94.2 Tm (Restock) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 80 Tm (requests) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 113.74 80 Tm (enter) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 145.56 80 Tm (a) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 156.17 80 Tm (queue;) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 193.3 80 Tm (processing) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 251.64 80 Tm (a) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 262.25 80 Tm (request) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 304.68 80 Tm (adds) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 331.2 80 Tm (ten) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 352.42 80 Tm (units) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 384.24 80 Tm (to) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 400.15 80 Tm (the) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 421.37 80 Tm (corresponding) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 495.62 80 Tm (product.) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 61.8 Tm (Inventory) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 119.04 61.8 Tm (is) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 134.95 61.8 Tm (stored) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 172.08 61.8 Tm (in) Tj ET
+BT /F3 10.2 Tf 0.03 0.31 0.66 rg 1 0 0 1 187.99 61.8 Tm (inventory.json) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 273.67 61.8 Tm (;) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 284.28 61.8 Tm (staff) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 316.1 61.8 Tm (and) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 337.32 61.8 Tm (service) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 379.75 61.8 Tm (tickets) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 422.18 61.8 Tm (are) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 443.4 61.8 Tm (stored) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 480.53 61.8 Tm (in) Tj ET
+BT /F3 10.2 Tf 0.03 0.31 0.66 rg 1 0 0 1 66 47.6 Tm (services.json) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 145.56 47.6 Tm (;) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 156.17 47.6 Tm (application) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 219.82 47.6 Tm (actions) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 262.25 47.6 Tm (are) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 283.46 47.6 Tm (appended) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 331.2 47.6 Tm (to) Tj ET
+BT /F3 10.2 Tf 0.03 0.31 0.66 rg 1 0 0 1 347.11 47.6 Tm (audit.log) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 402.19 47.6 Tm (.) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 412.8 47.6 Tm (These) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 444.62 47.6 Tm (records) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 487.06 47.6 Tm (persist) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 33.4 Tm (across) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 103.13 33.4 Tm (restarts.) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 156.17 33.4 Tm (The) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 177.38 33.4 Tm (inventory) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 230.42 33.4 Tm (undo) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 256.94 33.4 Tm (stack) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 288.77 33.4 Tm (and) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 309.98 33.4 Tm (restock) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 352.42 33.4 Tm (queue) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 384.24 33.4 Tm (are) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 405.46 33.4 Tm (in-memory) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 458.5 33.4 Tm (only.) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 16918 >>
+stream
+BT /F2 8 Tf 0.4 0.44 0.48 rg 1 0 0 1 66 755 Tm (Nav1Gate  /  PROJECT DOCUMENTATION) Tj ET
+q 0.82 0.85 0.88 RG 0.6 w 66 747 m 546 747 l S Q
+BT /F2 15.5 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 718.5 Tm (5. Data Structure Used) Tj ET
+q 0.82 0.85 0.88 RG 0.55 w 66 713.5 m 546 713.5 l S Q
+q
+0.93 0.95 0.97 rg
+0.82 0.85 0.88 RG
+0.55 w
+66 687.9 92 19.6 re B
+Q
+BT /F2 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 72 694.8 Tm (Structure) Tj ET
+q
+0.93 0.95 0.97 rg
+0.82 0.85 0.88 RG
+0.55 w
+158 687.9 152 19.6 re B
+Q
+BT /F2 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 164 694.8 Tm (Where it is used) Tj ET
+q
+0.93 0.95 0.97 rg
+0.82 0.85 0.88 RG
+0.55 w
+310 687.9 236 19.6 re B
+Q
+BT /F2 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 316 694.8 Tm (Why it is appropriate) Tj ET
+q
+1 1 1 rg
+0.82 0.85 0.88 RG
+0.55 w
+66 658.7 92 29.2 re B
+Q
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 72 675.2 Tm (ArrayList) Tj ET
+q
+1 1 1 rg
+0.82 0.85 0.88 RG
+0.55 w
+158 658.7 152 29.2 re B
+Q
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 164 675.2 Tm (Primary product, staff, ticket,) Tj ET
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 164 665.6 Tm (and active-customer collections) Tj ET
+q
+1 1 1 rg
+0.82 0.85 0.88 RG
+0.55 w
+310 658.7 236 29.2 re B
+Q
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 316 675.2 Tm (Supports ordered collections and iteration in the GUI) Tj ET
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 316 665.6 Tm (and business logic.) Tj ET
+q
+1 1 1 rg
+0.82 0.85 0.88 RG
+0.55 w
+66 629.5 92 29.2 re B
+Q
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 72 646 Tm (Queue) Tj ET
+q
+1 1 1 rg
+0.82 0.85 0.88 RG
+0.55 w
+158 629.5 152 29.2 re B
+Q
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 164 646 Tm (Per-sector customer waitlists and) Tj ET
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 164 636.4 Tm (restock requests) Tj ET
+q
+1 1 1 rg
+0.82 0.85 0.88 RG
+0.55 w
+310 629.5 236 29.2 re B
+Q
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 316 646 Tm (FIFO behavior ensures the earliest waiting customer or) Tj ET
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 316 636.4 Tm (restock request is processed first.) Tj ET
+q
+1 1 1 rg
+0.82 0.85 0.88 RG
+0.55 w
+66 600.3 92 29.2 re B
+Q
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 72 616.8 Tm (Stack) Tj ET
+q
+1 1 1 rg
+0.82 0.85 0.88 RG
+0.55 w
+158 600.3 152 29.2 re B
+Q
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 164 616.8 Tm (Inventory undo history and service) Tj ET
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 164 607.2 Tm (tracking) Tj ET
+q
+1 1 1 rg
+0.82 0.85 0.88 RG
+0.55 w
+310 600.3 236 29.2 re B
+Q
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 316 616.8 Tm (Provides last-in, first-out operations for undo and) Tj ET
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 316 607.2 Tm (service record workflows.) Tj ET
+q
+1 1 1 rg
+0.82 0.85 0.88 RG
+0.55 w
+66 571.1 92 29.2 re B
+Q
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 72 587.6 Tm (Linked list) Tj ET
+q
+1 1 1 rg
+0.82 0.85 0.88 RG
+0.55 w
+158 571.1 152 29.2 re B
+Q
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 164 587.6 Tm (Completed-service history and) Tj ET
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 164 578 Tm (recently viewed products) Tj ET
+q
+1 1 1 rg
+0.82 0.85 0.88 RG
+0.55 w
+310 571.1 236 29.2 re B
+Q
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 316 587.6 Tm (Stores sequential records and supports traversal in) Tj ET
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 316 578 Tm (order.) Tj ET
+q
+1 1 1 rg
+0.82 0.85 0.88 RG
+0.55 w
+66 541.9 92 29.2 re B
+Q
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 72 558.4 Tm (Hash table) Tj ET
+q
+1 1 1 rg
+0.82 0.85 0.88 RG
+0.55 w
+158 541.9 152 29.2 re B
+Q
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 164 558.4 Tm (Product-by-SKU, staff-by-ID, and) Tj ET
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 164 548.8 Tm (ticket-by-ID indexes) Tj ET
+q
+1 1 1 rg
+0.82 0.85 0.88 RG
+0.55 w
+310 541.9 236 29.2 re B
+Q
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 316 558.4 Tm (Provides direct identifier-based lookup; collisions use) Tj ET
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 316 548.8 Tm (separate chaining.) Tj ET
+q
+1 1 1 rg
+0.82 0.85 0.88 RG
+0.55 w
+66 512.7 92 29.2 re B
+Q
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 72 529.2 Tm (Binary search tree) Tj ET
+q
+1 1 1 rg
+0.82 0.85 0.88 RG
+0.55 w
+158 512.7 152 29.2 re B
+Q
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 164 529.2 Tm (Price index for products) Tj ET
+q
+1 1 1 rg
+0.82 0.85 0.88 RG
+0.55 w
+310 512.7 236 29.2 re B
+Q
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 316 529.2 Tm (Organizes products by price and demonstrates tree) Tj ET
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 316 519.6 Tm (insertion and lookup operations.) Tj ET
+q
+1 1 1 rg
+0.82 0.85 0.88 RG
+0.55 w
+66 483.5 92 29.2 re B
+Q
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 72 500 Tm (Set) Tj ET
+q
+1 1 1 rg
+0.82 0.85 0.88 RG
+0.55 w
+158 483.5 152 29.2 re B
+Q
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 164 500 Tm (Supported service sectors and) Tj ET
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 164 490.4 Tm (unique product categories) Tj ET
+q
+1 1 1 rg
+0.82 0.85 0.88 RG
+0.55 w
+310 483.5 236 29.2 re B
+Q
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 316 500 Tm (Maintains unique values without duplicates.) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 461.3 Tm (These) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 97.82 461.3 Tm (structures) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 156.17 461.3 Tm (are) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 177.38 461.3 Tm (implemented) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 241.03 461.3 Tm (in) Tj ET
+BT /F3 10.2 Tf 0.03 0.31 0.66 rg 1 0 0 1 256.94 461.3 Tm (data_structures.py) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 372.41 461.3 Tm (and) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 393.62 461.3 Tm (coordinated) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 457.27 461.3 Tm (by) Tj ET
+BT /F3 10.2 Tf 0.03 0.31 0.66 rg 1 0 0 1 66 447.1 Tm (InventorySystem) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 163.1 447.1 Tm (in) Tj ET
+BT /F3 10.2 Tf 0.03 0.31 0.66 rg 1 0 0 1 179.02 447.1 Tm (app.py) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 215.74 447.1 Tm (.) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 226.34 447.1 Tm (The) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 247.56 447.1 Tm (ArrayList) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 300.6 447.1 Tm (uses) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 327.12 447.1 Tm (Python's) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 374.86 447.1 Tm (list) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 401.38 447.1 Tm (internally;) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 465.02 447.1 Tm (the) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 486.24 447.1 Tm (queue) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 518.06 447.1 Tm (uses) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 432.9 Tm (a) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 76.61 432.9 Tm (deque.) Tj ET
+BT /F2 15.5 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 409.4 Tm (6. Algorithms Used) Tj ET
+q 0.82 0.85 0.88 RG 0.55 w 66 404.4 m 546 404.4 l S Q
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 68 388.3 Tm (-) Tj ET
+BT /F2 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 86 388.3 Tm (Linear) Tj ET
+BT /F2 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 122.76 388.3 Tm (search:) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 164.78 388.3 Tm (scans) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 196.29 388.3 Tm (products) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 243.56 388.3 Tm (to) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 259.32 388.3 Tm (find) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 285.58 388.3 Tm (a) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 296.08 388.3 Tm (name) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 322.34 388.3 Tm (or) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 338.1 388.3 Tm (category) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 385.36 388.3 Tm (containing) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 443.14 388.3 Tm (the) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 372.2 Tm (search) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 103.13 372.2 Tm (text.) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 134.95 372.2 Tm (Its) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 156.17 372.2 Tm (time) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 182.69 372.2 Tm (complexity) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 241.03 372.2 Tm (is) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 256.94 372.2 Tm (O\(n\).) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 68 354.1 Tm (-) Tj ET
+BT /F2 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 86 354.1 Tm (Merge) Tj ET
+BT /F2 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 117.51 354.1 Tm (sort:) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 149.02 354.1 Tm (orders) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 185.79 354.1 Tm (inventory) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 238.31 354.1 Tm (by) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 254.06 354.1 Tm (name) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 280.32 354.1 Tm (or) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 296.08 354.1 Tm (price) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 327.59 354.1 Tm (and) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 348.6 354.1 Tm (prepares) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 395.87 354.1 Tm (SKU) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 416.88 354.1 Tm (records) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 338 Tm (for) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 87.22 338 Tm (binary) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 124.34 338 Tm (search.) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 166.78 338 Tm (Its) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 187.99 338 Tm (time) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 214.51 338 Tm (complexity) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 272.86 338 Tm (is) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 288.77 338 Tm (O\(n) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 309.98 338 Tm (log) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 331.2 338 Tm (n\).) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 68 319.9 Tm (-) Tj ET
+BT /F2 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 86 319.9 Tm (Binary) Tj ET
+BT /F2 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 122.76 319.9 Tm (search:) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 164.78 319.9 Tm (locates) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 206.8 319.9 Tm (an) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 222.55 319.9 Tm (exact) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 254.06 319.9 Tm (SKU) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 275.07 319.9 Tm (in) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 290.83 319.9 Tm (sorted) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 327.59 319.9 Tm (product) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 369.61 319.9 Tm (data.) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 401.12 319.9 Tm (Binary) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 303.8 Tm (search) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 103.13 303.8 Tm (is) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 119.04 303.8 Tm (O\(log) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 150.86 303.8 Tm (n\)) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 166.78 303.8 Tm (after) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 198.6 303.8 Tm (sorting;) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 246.34 303.8 Tm (because) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 288.77 303.8 Tm (the) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 309.98 303.8 Tm (current) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 352.42 303.8 Tm (SKU) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 373.63 303.8 Tm (lookup) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 410.76 303.8 Tm (sorts) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 442.58 303.8 Tm (for) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 463.8 303.8 Tm (each) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 490.32 303.8 Tm (search,) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 289.6 Tm (the) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 87.22 289.6 Tm (complete) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 134.95 289.6 Tm (operation) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 187.99 289.6 Tm (is) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 203.9 289.6 Tm (O\(n) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 225.12 289.6 Tm (log) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 246.34 289.6 Tm (n\).) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 68 271.5 Tm (-) Tj ET
+BT /F2 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 86 271.5 Tm (Nearest-price) Tj ET
+BT /F2 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 159.53 271.5 Tm (search:) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 201.54 271.5 Tm (sorts) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 233.06 271.5 Tm (products) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 280.32 271.5 Tm (by) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 296.08 271.5 Tm (price) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 327.59 271.5 Tm (and) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 348.6 271.5 Tm (recursively) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 411.62 271.5 Tm (narrows) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 255.4 Tm (the) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 87.22 255.4 Tm (search) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 124.34 255.4 Tm (range) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 156.17 255.4 Tm (to) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 172.08 255.4 Tm (find) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 198.6 255.4 Tm (the) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 219.82 255.4 Tm (closest) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 262.25 255.4 Tm (value.) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 299.38 255.4 Tm (The) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 320.59 255.4 Tm (complete) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 368.33 255.4 Tm (operation) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 421.37 255.4 Tm (is) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 437.28 255.4 Tm (O\(n) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 458.5 255.4 Tm (log) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 479.71 255.4 Tm (n\),) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 241.2 Tm (including) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 119.04 241.2 Tm (sorting.) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 68 223.1 Tm (-) Tj ET
+BT /F2 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 86 223.1 Tm (FIFO) Tj ET
+BT /F2 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 112.26 223.1 Tm (queue) Tj ET
+BT /F2 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 143.77 223.1 Tm (operations:) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 206.8 223.1 Tm (add) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 227.8 223.1 Tm (tickets) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 269.82 223.1 Tm (at) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 285.58 223.1 Tm (the) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 306.58 223.1 Tm (back) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 332.84 223.1 Tm (of) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 348.6 223.1 Tm (a) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 359.1 223.1 Tm (sector) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 395.87 223.1 Tm (queue) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 427.38 223.1 Tm (and) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 207 Tm (assign) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 103.13 207 Tm (from) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 129.65 207 Tm (its) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 150.86 207 Tm (front,) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 187.99 207 Tm (preserving) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 246.34 207 Tm (arrival) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 288.77 207 Tm (order.) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 188.8 Tm (The) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 87.22 188.8 Tm (price) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 119.04 188.8 Tm (tree) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 145.56 188.8 Tm (is) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 161.47 188.8 Tm (maintained) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 219.82 188.8 Tm (as) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 235.73 188.8 Tm (an) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 251.64 188.8 Tm (index,) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 288.77 188.8 Tm (while) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 320.59 188.8 Tm (the) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 341.81 188.8 Tm (user-facing) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 405.46 188.8 Tm (sort) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 431.98 188.8 Tm (and) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 453.19 188.8 Tm (nearest-price) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 174.6 Tm (operations) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 124.34 174.6 Tm (use) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 145.56 174.6 Tm (merge) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 177.38 174.6 Tm (sort.) Tj ET
+BT /F2 15.5 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 151.1 Tm (7. System Flow) Tj ET
+q 0.82 0.85 0.88 RG 0.55 w 66 146.1 m 546 146.1 l S Q
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 13082 >>
+stream
+BT /F2 8 Tf 0.4 0.44 0.48 rg 1 0 0 1 66 755 Tm (Nav1Gate  /  PROJECT DOCUMENTATION) Tj ET
+q 0.82 0.85 0.88 RG 0.6 w 66 747 m 546 747 l S Q
+q
+0.96 0.97 0.98 rg
+0.82 0.85 0.88 RG
+0.8 w
+181 710 250 24 re B
+Q
+BT /F2 8.6 Tf 0.12 0.14 0.17 rg 1 0 0 1 272.46 719.4 Tm (Launch Nav1Gate) Tj ET
+q 0.4 0.44 0.48 RG 0.8 w 306 710 m 306 701 l S Q
+q 0.4 0.44 0.48 rg 303 701 m 309 701 l 306 697 l h f Q
+q
+0.96 0.97 0.98 rg
+0.82 0.85 0.88 RG
+0.8 w
+181 673 250 24 re B
+Q
+BT /F2 8.6 Tf 0.12 0.14 0.17 rg 1 0 0 1 223.27 682.4 Tm (Load data; rebuild indexes and queues) Tj ET
+q 0.4 0.44 0.48 RG 0.8 w 306 673 m 306 664 l S Q
+q 0.4 0.44 0.48 rg 303 664 m 309 664 l 306 660 l h f Q
+q
+0.93 0.95 0.97 rg
+0.82 0.85 0.88 RG
+0.8 w
+181 636 250 24 re B
+Q
+BT /F2 8.6 Tf 0.12 0.14 0.17 rg 1 0 0 1 270.22 645.4 Tm (Select operation) Tj ET
+q 0.4 0.44 0.48 RG 0.8 w 306 636 m 306 623 l S Q
+q 0.4 0.44 0.48 RG 0.8 w 183 623 m 429 623 l S Q
+q 0.4 0.44 0.48 RG 0.8 w 183 623 m 183 614 l S Q
+q 0.4 0.44 0.48 rg 180 614 m 186 614 l 183 610 l h f Q
+q 0.4 0.44 0.48 RG 0.8 w 429 623 m 429 614 l S Q
+q 0.4 0.44 0.48 rg 426 614 m 432 614 l 429 610 l h f Q
+q
+0.96 0.97 0.98 rg
+0.82 0.85 0.88 RG
+0.7 w
+66 549 234 61 re B
+Q
+BT /F2 8.4 Tf 0.03 0.31 0.66 rg 1 0 0 1 74 595.6 Tm (Customer service) Tj ET
+BT /F1 7.6 Tf 0.12 0.14 0.17 rg 1 0 0 1 74 580.4 Tm (Register and validate customer details, then enqueue a) Tj ET
+BT /F1 7.6 Tf 0.12 0.14 0.17 rg 1 0 0 1 74 571.2 Tm (ticket.) Tj ET
+q
+0.96 0.97 0.98 rg
+0.82 0.85 0.88 RG
+0.7 w
+312 549 234 61 re B
+Q
+BT /F2 8.4 Tf 0.03 0.31 0.66 rg 1 0 0 1 320 595.6 Tm (Assign) Tj ET
+BT /F1 7.6 Tf 0.12 0.14 0.17 rg 1 0 0 1 320 580.4 Tm (Check queue and sector staff; assign oldest ticket or) Tj ET
+BT /F1 7.6 Tf 0.12 0.14 0.17 rg 1 0 0 1 320 571.2 Tm (report unavailable.) Tj ET
+q
+0.96 0.97 0.98 rg
+0.82 0.85 0.88 RG
+0.7 w
+66 479 234 61 re B
+Q
+BT /F2 8.4 Tf 0.03 0.31 0.66 rg 1 0 0 1 74 525.6 Tm (Complete service) Tj ET
+BT /F1 7.6 Tf 0.12 0.14 0.17 rg 1 0 0 1 74 510.4 Tm (Finish ticket, release staff, and add it to service) Tj ET
+BT /F1 7.6 Tf 0.12 0.14 0.17 rg 1 0 0 1 74 501.2 Tm (history.) Tj ET
+q
+0.96 0.97 0.98 rg
+0.82 0.85 0.88 RG
+0.7 w
+312 479 234 61 re B
+Q
+BT /F2 8.4 Tf 0.03 0.31 0.66 rg 1 0 0 1 320 525.6 Tm (Inventory) Tj ET
+BT /F1 7.6 Tf 0.12 0.14 0.17 rg 1 0 0 1 320 510.4 Tm (Validate and manage parts, update indexes, then save.) Tj ET
+q
+0.96 0.97 0.98 rg
+0.82 0.85 0.88 RG
+0.7 w
+66 409 234 61 re B
+Q
+BT /F2 8.4 Tf 0.03 0.31 0.66 rg 1 0 0 1 74 455.6 Tm (Restock) Tj ET
+BT /F1 7.6 Tf 0.12 0.14 0.17 rg 1 0 0 1 74 440.4 Tm (Dequeue a request, add 10 units, and save.) Tj ET
+q
+0.96 0.97 0.98 rg
+0.82 0.85 0.88 RG
+0.7 w
+312 409 234 61 re B
+Q
+BT /F2 8.4 Tf 0.03 0.31 0.66 rg 1 0 0 1 320 455.6 Tm (Exit) Tj ET
+BT /F1 7.6 Tf 0.12 0.14 0.17 rg 1 0 0 1 320 440.4 Tm (Close the application.) Tj ET
+BT /F2 15.5 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 382.5 Tm (8. Implementation) Tj ET
+q 0.82 0.85 0.88 RG 0.55 w 66 377.5 m 546 377.5 l S Q
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 361.3 Tm (The) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 87.22 361.3 Tm (application) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 150.86 361.3 Tm (separates) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 203.9 361.3 Tm (the) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 225.12 361.3 Tm (graphical) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 278.16 361.3 Tm (interface) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 331.2 361.3 Tm (\() Tj ET
+BT /F3 10.2 Tf 0.03 0.31 0.66 rg 1 0 0 1 336.5 361.3 Tm (gui.py) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 373.22 361.3 Tm (\)) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 383.83 361.3 Tm (from) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 410.35 361.3 Tm (the) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 431.57 361.3 Tm (business) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 479.3 361.3 Tm (rules) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 511.13 361.3 Tm (\() Tj ET
+BT /F3 10.2 Tf 0.03 0.31 0.66 rg 1 0 0 1 66 347.1 Tm (app.py) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 102.72 347.1 Tm (\).) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 118.63 347.1 Tm (Data) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 145.15 347.1 Tm (records) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 187.58 347.1 Tm (and) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 208.8 347.1 Tm (persistence) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 272.45 347.1 Tm (helpers) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 314.88 347.1 Tm (are) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 336.1 347.1 Tm (defined) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 378.53 347.1 Tm (in) Tj ET
+BT /F3 10.2 Tf 0.03 0.31 0.66 rg 1 0 0 1 394.44 347.1 Tm (inventory.py) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 467.88 347.1 Tm (;) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 478.49 347.1 Tm (reusable) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 332.9 Tm (structures) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 124.34 332.9 Tm (and) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 145.56 332.9 Tm (algorithms) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 203.9 332.9 Tm (are) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 225.12 332.9 Tm (in) Tj ET
+BT /F3 10.2 Tf 0.03 0.31 0.66 rg 1 0 0 1 241.03 332.9 Tm (data_structures.py) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 356.5 332.9 Tm (and) Tj ET
+BT /F3 10.2 Tf 0.03 0.31 0.66 rg 1 0 0 1 377.71 332.9 Tm (algorithms.py) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 457.27 332.9 Tm (.) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 314.7 Tm (The) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 87.22 314.7 Tm (assignment) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 145.56 314.7 Tm (operation) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 198.6 314.7 Tm (dequeues) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 246.34 314.7 Tm (the) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 267.55 314.7 Tm (oldest) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 304.68 314.7 Tm (sector) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 341.81 314.7 Tm (ticket) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 378.94 314.7 Tm (only) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 405.46 314.7 Tm (after) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 437.28 314.7 Tm (confirming) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 495.62 314.7 Tm (that) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 300.5 Tm (appropriate) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 129.65 300.5 Tm (staff) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 161.47 300.5 Tm (are) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 182.69 300.5 Tm (available.) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 241.03 300.5 Tm (Its) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 262.25 300.5 Tm (core) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 288.77 300.5 Tm (state) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 320.59 300.5 Tm (changes) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 363.02 300.5 Tm (are:) Tj ET
+q
+0.96 0.97 0.98 rg
+0.82 0.85 0.88 RG
+0.55 w
+66 205 480 87.5 re B
+Q
+BT /F4 8.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 75 277.4 Tm (ticket = queue.dequeue\(\)) Tj ET
+BT /F4 8.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 75 266.9 Tm (ticket.status = "Active") Tj ET
+BT /F4 8.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 75 256.4 Tm (ticket.staff_id = staff_member.staff_id) Tj ET
+BT /F4 8.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 75 245.9 Tm (staff_member.available = False) Tj ET
+BT /F4 8.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 75 235.4 Tm (self.active_stack.push\(ticket\)) Tj ET
+BT /F4 8.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 75 224.9 Tm (self.active_tickets.append\(ticket\)) Tj ET
+BT /F4 8.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 75 214.4 Tm (self.save_services\(\)) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 184.8 Tm (This) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 92.52 184.8 Tm (transition) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 150.86 184.8 Tm (connects) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 198.6 184.8 Tm (the) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 219.82 184.8 Tm (FIFO) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 246.34 184.8 Tm (waitlist) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 294.07 184.8 Tm (to) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 309.98 184.8 Tm (staff) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 341.81 184.8 Tm (availability) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 410.76 184.8 Tm (and) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 431.98 184.8 Tm (saves) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 463.8 184.8 Tm (the) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 485.02 184.8 Tm (updated) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 170.6 Tm (service) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 108.43 170.6 Tm (state.) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 152.4 Tm (Inventory) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 119.04 152.4 Tm (creation) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 166.78 152.4 Tm (validates) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 219.82 152.4 Tm (the) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 241.03 152.4 Tm (SKU) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 262.25 152.4 Tm (and) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 283.46 152.4 Tm (numeric) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 325.9 152.4 Tm (values,) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 368.33 152.4 Tm (updates) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 410.76 152.4 Tm (the) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 431.98 152.4 Tm (collections) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 495.62 152.4 Tm (and) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 138.2 Tm (indexes,) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 113.74 138.2 Tm (and) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 134.95 138.2 Tm (persists) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 182.69 138.2 Tm (the) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 203.9 138.2 Tm (new) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 225.12 138.2 Tm (product:) Tj ET
+q
+0.96 0.97 0.98 rg
+0.82 0.85 0.88 RG
+0.55 w
+66 63.7 480 66.5 re B
+Q
+BT /F4 8.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 75 115.1 Tm (product = Product\(sku, name.strip\(\), category.strip\(\), quantity, price\)) Tj ET
+BT /F4 8.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 75 104.6 Tm (product.update_status\(\)) Tj ET
+BT /F4 8.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 75 94.1 Tm (self._index_product\(product\)) Tj ET
+BT /F4 8.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 75 83.6 Tm (self.history.push\(\("create", sku, None\)\)) Tj ET
+BT /F4 8.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 75 73.1 Tm (self.save\(\)) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 43.5 Tm (In) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 81.91 43.5 Tm (the) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 103.13 43.5 Tm (full) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 129.65 43.5 Tm (implementation,) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 214.51 43.5 Tm (validation) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 272.86 43.5 Tm (occurs) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 309.98 43.5 Tm (before) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 347.11 43.5 Tm (this) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 373.63 43.5 Tm (excerpt:) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 421.37 43.5 Tm (duplicate) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 474.41 43.5 Tm (SKUs,) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 29.3 Tm (negative) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 113.74 29.3 Tm (quantities) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 172.08 29.3 Tm (or) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 187.99 29.3 Tm (prices,) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 230.42 29.3 Tm (fractional) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 288.77 29.3 Tm (quantities,) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 352.42 29.3 Tm (and) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 373.63 29.3 Tm (non-finite) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 431.98 29.3 Tm (prices) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 469.1 29.3 Tm (are) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 490.32 29.3 Tm (rejected.) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 15.1 Tm (Product) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 108.43 15.1 Tm (status) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 145.56 15.1 Tm (is) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 161.47 15.1 Tm (set) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 182.69 15.1 Tm (to) Tj ET
+BT /F2 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 198.6 15.1 Tm (Restock) Tj ET
+BT /F2 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 241.03 15.1 Tm (needed) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 278.16 15.1 Tm (when) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 304.68 15.1 Tm (quantity) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 352.42 15.1 Tm (is) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 368.33 15.1 Tm (five) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 394.85 15.1 Tm (or) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 410.76 15.1 Tm (fewer.) Tj ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 15018 >>
+stream
+BT /F2 8 Tf 0.4 0.44 0.48 rg 1 0 0 1 66 755 Tm (Nav1Gate  /  PROJECT DOCUMENTATION) Tj ET
+q 0.82 0.85 0.88 RG 0.6 w 66 747 m 546 747 l S Q
+BT /F2 15.5 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 718.5 Tm (9. Testing) Tj ET
+q 0.82 0.85 0.88 RG 0.55 w 66 713.5 m 546 713.5 l S Q
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 697.3 Tm (The) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 87.22 697.3 Tm (automated) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 140.26 697.3 Tm (tests) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 172.08 697.3 Tm (use) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 193.3 697.3 Tm (Python's) Tj ET
+BT /F3 10.2 Tf 0.03 0.31 0.66 rg 1 0 0 1 241.03 697.3 Tm (unittest) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 295.3 697.3 Tm (framework) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 348.34 697.3 Tm (and) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 369.55 697.3 Tm (temporary) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 422.59 697.3 Tm (directories) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 486.24 697.3 Tm (for) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 683.1 Tm (persistence) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 129.65 683.1 Tm (cases.) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 166.78 683.1 Tm (Run) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 187.99 683.1 Tm (them) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 214.51 683.1 Tm (with:) Tj ET
+q
+0.96 0.97 0.98 rg
+0.82 0.85 0.88 RG
+0.55 w
+66 650.6 480 24.5 re B
+Q
+BT /F4 8.1 Tf 0.12 0.14 0.17 rg 1 0 0 1 75 660 Tm (python -m unittest -v test_app.py) Tj ET
+q
+0.93 0.95 0.97 rg
+0.82 0.85 0.88 RG
+0.55 w
+66 611.4 132 29.2 re B
+Q
+BT /F2 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 72 627.9 Tm (Test area) Tj ET
+q
+0.93 0.95 0.97 rg
+0.82 0.85 0.88 RG
+0.55 w
+198 611.4 234 29.2 re B
+Q
+BT /F2 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 204 627.9 Tm (Expected result) Tj ET
+q
+0.93 0.95 0.97 rg
+0.82 0.85 0.88 RG
+0.55 w
+432 611.4 114 29.2 re B
+Q
+BT /F2 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 438 627.9 Tm (Result in project test) Tj ET
+BT /F2 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 438 618.3 Tm (report) Tj ET
+q
+1 1 1 rg
+0.82 0.85 0.88 RG
+0.55 w
+66 582.2 132 29.2 re B
+Q
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 72 598.7 Tm (Inventory CRUD and) Tj ET
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 72 589.1 Tm (persistence) Tj ET
+q
+1 1 1 rg
+0.82 0.85 0.88 RG
+0.55 w
+198 582.2 234 29.2 re B
+Q
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 204 598.7 Tm (Products can be created, read, updated, deleted, and) Tj ET
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 204 589.1 Tm (reloaded) Tj ET
+q
+1 1 1 rg
+0.82 0.85 0.88 RG
+0.55 w
+432 582.2 114 29.2 re B
+Q
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 438 598.7 Tm (Pass) Tj ET
+q
+1 1 1 rg
+0.82 0.85 0.88 RG
+0.55 w
+66 553 132 29.2 re B
+Q
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 72 569.5 Tm (Input validation) Tj ET
+q
+1 1 1 rg
+0.82 0.85 0.88 RG
+0.55 w
+198 553 234 29.2 re B
+Q
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 204 569.5 Tm (Duplicate, negative, fractional, and non-finite values) Tj ET
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 204 559.9 Tm (are rejected) Tj ET
+q
+1 1 1 rg
+0.82 0.85 0.88 RG
+0.55 w
+432 553 114 29.2 re B
+Q
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 438 569.5 Tm (Pass) Tj ET
+q
+1 1 1 rg
+0.82 0.85 0.88 RG
+0.55 w
+66 523.8 132 29.2 re B
+Q
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 72 540.3 Tm (Data structures) Tj ET
+q
+1 1 1 rg
+0.82 0.85 0.88 RG
+0.55 w
+198 523.8 234 29.2 re B
+Q
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 204 540.3 Tm (Queue, stack, linked list, hash table, and tree) Tj ET
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 204 530.7 Tm (operations behave correctly) Tj ET
+q
+1 1 1 rg
+0.82 0.85 0.88 RG
+0.55 w
+432 523.8 114 29.2 re B
+Q
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 438 540.3 Tm (Pass) Tj ET
+q
+1 1 1 rg
+0.82 0.85 0.88 RG
+0.55 w
+66 494.6 132 29.2 re B
+Q
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 72 511.1 Tm (Search and sorting) Tj ET
+q
+1 1 1 rg
+0.82 0.85 0.88 RG
+0.55 w
+198 494.6 234 29.2 re B
+Q
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 204 511.1 Tm (Linear search, binary search, merge sort, and) Tj ET
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 204 501.5 Tm (nearest-price lookup return expected results) Tj ET
+q
+1 1 1 rg
+0.82 0.85 0.88 RG
+0.55 w
+432 494.6 114 29.2 re B
+Q
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 438 511.1 Tm (Pass) Tj ET
+q
+1 1 1 rg
+0.82 0.85 0.88 RG
+0.55 w
+66 465.4 132 29.2 re B
+Q
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 72 481.9 Tm (Customer service lifecycle) Tj ET
+q
+1 1 1 rg
+0.82 0.85 0.88 RG
+0.55 w
+198 465.4 234 29.2 re B
+Q
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 204 481.9 Tm (Tickets enter a waitlist, are assigned, and can be) Tj ET
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 204 472.3 Tm (completed) Tj ET
+q
+1 1 1 rg
+0.82 0.85 0.88 RG
+0.55 w
+432 465.4 114 29.2 re B
+Q
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 438 481.9 Tm (Pass) Tj ET
+q
+1 1 1 rg
+0.82 0.85 0.88 RG
+0.55 w
+66 436.2 132 29.2 re B
+Q
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 72 452.7 Tm (Staff rules) Tj ET
+q
+1 1 1 rg
+0.82 0.85 0.88 RG
+0.55 w
+198 436.2 234 29.2 re B
+Q
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 204 452.7 Tm (Availability changes with service; busy staff cannot be) Tj ET
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 204 443.1 Tm (removed) Tj ET
+q
+1 1 1 rg
+0.82 0.85 0.88 RG
+0.55 w
+432 436.2 114 29.2 re B
+Q
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 438 452.7 Tm (Pass) Tj ET
+q
+1 1 1 rg
+0.82 0.85 0.88 RG
+0.55 w
+66 407 132 29.2 re B
+Q
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 72 423.5 Tm (Ticket persistence and) Tj ET
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 72 413.9 Tm (deletion) Tj ET
+q
+1 1 1 rg
+0.82 0.85 0.88 RG
+0.55 w
+198 407 234 29.2 re B
+Q
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 204 423.5 Tm (Ticket states survive restart; only finished tickets) Tj ET
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 204 413.9 Tm (may be deleted) Tj ET
+q
+1 1 1 rg
+0.82 0.85 0.88 RG
+0.55 w
+432 407 114 29.2 re B
+Q
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 438 423.5 Tm (Pass) Tj ET
+q
+1 1 1 rg
+0.82 0.85 0.88 RG
+0.55 w
+66 387.4 132 19.6 re B
+Q
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 72 394.3 Tm (CLI numeric input) Tj ET
+q
+1 1 1 rg
+0.82 0.85 0.88 RG
+0.55 w
+198 387.4 234 19.6 re B
+Q
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 204 394.3 Tm (Invalid optional values are rejected and retried) Tj ET
+q
+1 1 1 rg
+0.82 0.85 0.88 RG
+0.55 w
+432 387.4 114 19.6 re B
+Q
+BT /F1 7.7 Tf 0.12 0.14 0.17 rg 1 0 0 1 438 394.3 Tm (Pass) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 365.2 Tm (The) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 87.22 365.2 Tm (pass) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 113.74 365.2 Tm (results) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 156.17 365.2 Tm (above) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 187.99 365.2 Tm (are) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 209.21 365.2 Tm (those) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 241.03 365.2 Tm (recorded) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 288.77 365.2 Tm (in) Tj ET
+BT /F3 10.2 Tf 0.03 0.31 0.66 rg 1 0 0 1 304.68 365.2 Tm (docs/test-report.md) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 420.96 365.2 Tm (;) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 431.57 365.2 Tm (this) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 458.09 365.2 Tm (documentation) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 351 Tm (update) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 103.13 351 Tm (did) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 124.34 351 Tm (not) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 145.56 351 Tm (rerun) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 177.38 351 Tm (the) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 198.6 351 Tm (suite.) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 235.73 351 Tm (GUI) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 256.94 351 Tm (behavior) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 304.68 351 Tm (is) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 320.59 351 Tm (demonstrated) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 389.54 351 Tm (separately) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 447.89 351 Tm (from) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 474.41 351 Tm (these) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 336.8 Tm (automated) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 119.04 336.8 Tm (tests.) Tj ET
+BT /F2 15.5 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 313.3 Tm (10. Conclusion) Tj ET
+q 0.82 0.85 0.88 RG 0.55 w 66 308.3 m 546 308.3 l S Q
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 292.1 Tm (Nav1Gate) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 113.74 292.1 Tm (combines) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 161.47 292.1 Tm (customer) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 209.21 292.1 Tm (routing,) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 256.94 292.1 Tm (staff) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 288.77 292.1 Tm (availability,) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 363.02 292.1 Tm (service) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 405.46 292.1 Tm (history,) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 453.19 292.1 Tm (and) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 474.41 292.1 Tm (PC-parts) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 277.9 Tm (inventory) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 119.04 277.9 Tm (in) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 134.95 277.9 Tm (one) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 156.17 277.9 Tm (desktop) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 198.6 277.9 Tm (application.) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 267.55 277.9 Tm (It) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 283.46 277.9 Tm (demonstrates) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 352.42 277.9 Tm (how) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 373.63 277.9 Tm (queues,) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 416.06 277.9 Tm (stacks,) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 458.5 277.9 Tm (linked) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 495.62 277.9 Tm (lists,) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 263.7 Tm (hash) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 92.52 263.7 Tm (tables,) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 134.95 263.7 Tm (trees,) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 172.08 263.7 Tm (and) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 193.3 263.7 Tm (search) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 230.42 263.7 Tm (and) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 251.64 263.7 Tm (sorting) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 294.07 263.7 Tm (algorithms) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 352.42 263.7 Tm (can) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 373.63 263.7 Tm (support) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 416.06 263.7 Tm (practical) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 469.1 263.7 Tm (workflows.) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 527.45 263.7 Tm (The) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 249.5 Tm (project) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 108.43 249.5 Tm (also) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 134.95 249.5 Tm (provides) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 182.69 249.5 Tm (local) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 214.51 249.5 Tm (persistence) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 278.16 249.5 Tm (and) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 299.38 249.5 Tm (automated) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 352.42 249.5 Tm (tests) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 384.24 249.5 Tm (for) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 405.46 249.5 Tm (core) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 431.98 249.5 Tm (operations.) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 231.3 Tm (The) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 87.22 231.3 Tm (main) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 113.74 231.3 Tm (learning) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 161.47 231.3 Tm (outcomes) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 209.21 231.3 Tm (include) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 251.64 231.3 Tm (applying) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 299.38 231.3 Tm (data) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 325.9 231.3 Tm (structures) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 384.24 231.3 Tm (to) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 400.15 231.3 Tm (real) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 426.67 231.3 Tm (application) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 217.1 Tm (requirements,) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 140.26 217.1 Tm (separating) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 198.6 217.1 Tm (interface) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 251.64 217.1 Tm (and) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 272.86 217.1 Tm (business) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 320.59 217.1 Tm (logic,) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 357.72 217.1 Tm (validating) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 416.06 217.1 Tm (user) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 442.58 217.1 Tm (input,) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 479.71 217.1 Tm (and) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 500.93 217.1 Tm (testing) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 202.9 Tm (persistence) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 129.65 202.9 Tm (and) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 150.86 202.9 Tm (ticket) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 187.99 202.9 Tm (state) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 219.82 202.9 Tm (transitions.) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 288.77 202.9 Tm (Nav1Gate) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 336.5 202.9 Tm (remains) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 378.94 202.9 Tm (a) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 389.54 202.9 Tm (single-user) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 453.19 202.9 Tm (prototype;) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 511.54 202.9 Tm (shared) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 66 188.7 Tm (production) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 124.34 188.7 Tm (use) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 145.56 188.7 Tm (would) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 177.38 188.7 Tm (require) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 219.82 188.7 Tm (stronger) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 267.55 188.7 Tm (security) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 315.29 188.7 Tm (controls) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 363.02 188.7 Tm (and) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 384.24 188.7 Tm (multi-user) Tj ET
+BT /F1 10.2 Tf 0.12 0.14 0.17 rg 1 0 0 1 442.58 188.7 Tm (persistence.) Tj ET
+BT /F1 8 Tf 0.4 0.44 0.48 rg 1 0 0 1 286 26 Tm (Page 1) Tj ET
+BT /F1 8 Tf 0.4 0.44 0.48 rg 1 0 0 1 286 26 Tm (Page 2) Tj ET
+BT /F1 8 Tf 0.4 0.44 0.48 rg 1 0 0 1 286 26 Tm (Page 3) Tj ET
+BT /F1 8 Tf 0.4 0.44 0.48 rg 1 0 0 1 286 26 Tm (Page 4) Tj ET
+endstream
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000019 00000 n 
+0000000068 00000 n 
+0000000145 00000 n 
+0000000242 00000 n 
+0000000344 00000 n 
+0000000449 00000 n 
+0000000544 00000 n 
+0000000700 00000 n 
+0000029758 00000 n 
+0000029915 00000 n 
+0000046887 00000 n 
+0000047045 00000 n 
+0000060181 00000 n 
+0000060339 00000 n 
+trailer
+<< /Size 15 /Root 1 0 R /Info << /Title (Nav1Gate Project Documentation) /Creator (Nav1Gate Markdown PDF exporter) >> >>
+startxref
+75411
+%%EOF
